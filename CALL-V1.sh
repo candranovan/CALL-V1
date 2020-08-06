@@ -1,8 +1,8 @@
 subrek_anying(){
 sleep 1
-printf "SUBSCRIBE DULU CHANNEL GUA:)"
+printf "SUBSCRIBE DULU CHANNEL GUA:)\n"
 sleep 1
-printf "Memuat link. . ."
+printf "[!] Memuat Link. . ."
 sleep 3
 xdg-open https://www.youtube.com/channel/UC9lYFKPjhTxtoiXM3560Yag
 sleep 10
